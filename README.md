@@ -1,11 +1,11 @@
 Title : Build a CNN model for image classification
 
 Description: In this dataset, there are roughly 3,700 images of flowers. Five subdirectories, one for each class, are present in the dataset: 
- daisy/
- dandelion/
- roses/
- sunflowers/
- tulips/
+ daisy
+ dandelion
+ roses
+ sunflowers
+ tulips
 
 Tasks: a) Split the dataset for training and testing
        b) build the   CNN model for different parameters
