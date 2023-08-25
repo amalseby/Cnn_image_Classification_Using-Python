@@ -1,4 +1,4 @@
-Title : Build a CNN model for image classification/
+Aim : Build a CNN model for image classification
 
 Description: In this dataset, there are roughly 3,700 images of flowers. Five subdirectories, one for each class, are present in the dataset: 
  daisy,
